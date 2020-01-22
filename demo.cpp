@@ -37,5 +37,6 @@ int main() {
 	cin >> n;
 	cout << digital_root(n);
 	cout << 12344444555666;
+	cout << "new line";
 	return 0;
 }
