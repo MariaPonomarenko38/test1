@@ -36,6 +36,6 @@ int main() {
 	int n;
 	cin >> n;
 	cout << digital_root(n);
-	cout << 1;
+	cout << 12;
 	return 0;
 }
